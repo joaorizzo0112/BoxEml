@@ -1,25 +1,31 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/bfd08729-60c8-4068-910e-d1179e7e0485" alt="Box Emulator" width="160" />
+
   <h1>Box Emulator</h1>
-  
+
   <p>
-    <img src="https://img.shields.io/badge/vers%C3%A3o-0.9.0--dev-00bcd4?style=flat" alt="Versão 0.9.0-dev" />
-    <img src="https://img.shields.io/badge/status-em%20andamento-e67e22?style=flat" alt="Em andamento" />
-    <img src="https://img.shields.io/badge/linguagem-C%2B%2B17-00599C?style=flat" alt="C++17" />
-    <img src="https://img.shields.io/badge/UI-SDL2%20%7C%20Dear%20ImGui-2b3e50?style=flat" alt="SDL2 e Dear ImGui" />
-    <img src="https://img.shields.io/badge/n%C3%BAcleo-mGBA%200.11--212--7a12d6d-34495e?style=flat" alt="Núcleo mGBA" />
+    <img src="https://img.shields.io/badge/VERS%C3%83O-0.12.0-00bcd4?style=for-the-badge" alt="Versão 0.12.0" />
+    <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-e67e22?style=for-the-badge" alt="Em desenvolvimento" />
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Windows-passing-4c1?style=flat&logo=github&logoColor=white" alt="Windows" />
-    <img src="https://img.shields.io/badge/Linux-passing-4c1?style=flat&logo=github&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/macOS-passing-4c1?style=flat&logo=github&logoColor=white" alt="macOS" />
+    <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++17" />
+    <img src="https://img.shields.io/badge/INTERFACE-SDL2%20%2B%20DEAR%20IMGUI-2b3e50?style=for-the-badge" alt="SDL2 e Dear ImGui" />
+    <img src="https://img.shields.io/badge/ARQUITETURA-MULTISISTEMA-7a12d6?style=for-the-badge" alt="Arquitetura multisistema" />
+  </p>
+
+  <br />
+
+  <h3>Plataformas</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Windows-Em%20desenvolvimento-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows em desenvolvimento" />
+    <img src="https://img.shields.io/badge/Linux-Em%20desenvolvimento-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux em desenvolvimento" />
+    <img src="https://img.shields.io/badge/macOS-Planejado-777777?style=for-the-badge&logo=apple&logoColor=white" alt="macOS planejado" />
   </p>
 </div>
 
-# Box Emulator
-
-Emulador multisistema para desktop, desenvolvido em C++ com foco em organização da biblioteca, praticidade de uso, desempenho e uma experiência consistente para jogos clássicos.
+Emulador para desktop, desenvolvido em C++ com foco em organização da biblioteca, praticidade de uso, desempenho e uma experiência consistente para jogos clássicos.
 
 Este README acompanha a documentação da linha **0.12.0** do projeto. O desenvolvimento continua ativo, e a disponibilidade de cada sistema depende da integração do respectivo núcleo, dos requisitos de firmware/BIOS e da compatibilidade de cada jogo.
 
